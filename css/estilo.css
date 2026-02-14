@@ -1,0 +1,15 @@
+/************************/
+/*******Colores**********/
+/************************/
+.bg-morado{
+    background-color: #8e44ad;
+}
+.bg-menu{
+    background-color: #27ae60;
+}
+
+body{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
